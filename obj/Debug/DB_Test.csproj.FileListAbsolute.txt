@@ -1,0 +1,13 @@
+D:\Adobe\Comp 1\VS Saves\DB_Test\bin\Debug\DB1.mdf
+D:\Adobe\Comp 1\VS Saves\DB_Test\bin\Debug\DB1_log.ldf
+D:\Adobe\Comp 1\VS Saves\DB_Test\bin\Debug\DB_Test.exe.config
+D:\Adobe\Comp 1\VS Saves\DB_Test\bin\Debug\DB_Test.exe
+D:\Adobe\Comp 1\VS Saves\DB_Test\bin\Debug\DB_Test.pdb
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.Form1.resources
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.Properties.Resources.resources
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.csproj.GenerateResource.cache
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.exe
+D:\Adobe\Comp 1\VS Saves\DB_Test\obj\Debug\DB_Test.pdb
